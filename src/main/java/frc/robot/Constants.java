@@ -13,7 +13,7 @@ public class Constants{
 
     //PWM Ports
     public static final int INTAKE_MTR_1   = 0; // 1 works too
-    public static final int INTAKE_MTR_2   = 1; // 2, 0, 3, 4, 8 doesn't work
+    public static final int INTAKE_MTR_2   = 1; // 2, 0, 3, 4, 8 doesn't work. Still broken 11:51 AM 10/19/19.
     public static final int FORKLIFT_MTR   = 5; //WORKS!!!!! DO NOT CHANGE.
     public static final int FORKLIFT_SERVO = 3;
 

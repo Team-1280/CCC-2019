@@ -1,13 +1,11 @@
 package frc.robot.subsystems;
 
 import frc.robot.loops.Looper;
-import frc.robot.subsystems.Elevator.ElevatorState;
 import frc.robot.loops.Loop;
 import frc.lib.drivers.sensors.Gyro;
 import frc.lib.math.PID;
 import frc.robot.Constants;
 import edu.wpi.first.wpilibj.Compressor;
-import edu.wpi.first.wpilibj.Timer;
 
 
 public class Superstructure extends Subsystems{
