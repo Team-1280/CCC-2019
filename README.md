@@ -1,10 +1,10 @@
 # CCC-2019
 
-Ports
-0 - Left Joystick
-1 - Right Joystick
-2 - XBOX Controller
-
+Ports  
+0 - Left Joystick  
+1 - Right Joystick  
+2 - XBOX Controller  
+ 
 Control Scheme
 * Left trigger intakes (forklift and intake)
 * Right trigger outtakes (forklift and intake)
